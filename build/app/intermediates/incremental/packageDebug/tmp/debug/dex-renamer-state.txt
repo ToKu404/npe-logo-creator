@@ -1,0 +1,4 @@
+#Sun Dec 18 08:36:58 WITA 2022
+base.0=/home/toku/Documents/temporary/npe_logo_creator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
